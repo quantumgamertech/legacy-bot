@@ -1,2 +1,4 @@
 discord.py
+aiohttp
 psycopg2-binary
+matplotlib
